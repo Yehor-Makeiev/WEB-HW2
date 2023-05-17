@@ -35,7 +35,6 @@ class Phone(Field):
             raise ValueError("Phone number must have '+' and 12 digits")
         self.__phone = value
 
-
 class Birthday:
 
     def __init__(self, value):

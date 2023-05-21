@@ -1,6 +1,5 @@
 # Імпорт потрібних бібліотек
 import re
-import sys
 import shutil
 from pathlib import Path, PurePath
 from transliterate import translit

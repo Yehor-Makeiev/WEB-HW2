@@ -1,6 +1,5 @@
 from collections import UserDict
 
-
 class Tag():
     def __init__(self, value):
         self.__value = None
